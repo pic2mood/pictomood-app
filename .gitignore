@@ -1,0 +1,4 @@
+pictomood.sublime-project
+pictomood.sublime-workspace
+*.pyc
+*/__pycache__
