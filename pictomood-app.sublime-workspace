@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"dis",
+				"Disgust"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"dir_working\tstatement"
+			],
+			[
+				"App",
+				"AppIndicator"
+			],
+			[
+				"trai",
+				"training_size"
+			],
+			[
+				"out",
+				"outputs"
+			],
+			[
+				"f",
+				"feed_dict"
+			],
+			[
+				"tr",
+				"training_outputs"
+			],
+			[
+				"train",
+				"training_inputs"
+			],
+			[
+				"we",
+				"weights_output"
+			],
+			[
+				"hid",
+				"hidden_outputs"
+			],
+			[
+				"weig",
+				"weights_hidden"
+			],
+			[
+				"inpu",
+				"input_outputs"
+			],
+			[
+				"_labe",
+				"_label3"
+			],
+			[
+				"Ho",
+				"HORIZONTAL"
+			],
+			[
+				"_bt",
+				"_btn_settings"
+			],
+			[
+				"_btn",
+				"_btn_settings_img"
+			],
+			[
+				"bt",
+				"_btn_settings_img"
+			],
+			[
+				"_b",
+				"_btn_settings"
+			],
+			[
+				"next",
+				"next_check"
+			],
+			[
+				"nex",
+				"Next"
+			],
+			[
+				"hr",
+				"hrs_to_six"
+			],
+			[
+				"cu",
+				"current_min"
+			],
+			[
+				"curr",
+				"current_hr"
+			],
+			[
+				"hrs",
+				"hrs_to_twelve_am"
+			],
+			[
+				"te",
+				"twelve_am"
+			],
+			[
+				"six",
+				"six_am"
+			],
+			[
+				"cur",
+				"current_hr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"last_filter": "preview",
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownPrevi",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"select skin",
+				"UI: Select Skin"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 508.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"chmod u+x off"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/raymelon/Documents/PUP Files/8th Sem/pic2mood/pictomood-app"
+	],
+	"file_history":
+	[
+		"/home/raymelon/Documents/PUP Files/8th Sem/pic2mood/pictomood-app/requirements.txt",
+		"/home/raymelon/Documents/PUP Files/8th Sem/pic2mood/pictomood-app/templates/index.html",
+		"/home/raymelon/Documents/PUP Files/8th Sem/pic2mood/pictomood-app/templates/hello.html",
+		"/home/raymelon/Documents/PUP Files/8th Sem/pictomood-app/requirements.txt",
+		"/etc/init.d/rc.local",
+		"/etc/rc.local",
+		"/home/raymelon/Documents/side-projects/configs.me/R580-TUX/R580-TUX.sublime-project",
+		"/home/raymelon/Documents/nodesource.list",
+		"/home/raymelon/Documents/side-projects/configs.me/R580-TUX/R580-TUX.sublime-workspace",
+		"/home/raymelon/.config/Android Open Source Project/Emulator.conf",
+		"/home/raymelon/Documents/side-projects/configs.me/R580-TUX/R580-TUX2.sublime-workspace",
+		"/home/raymelon/Documents/R580-TUX github access token",
+		"/home/raymelon/Documents/android-keystores/taallam.jks",
+		"/home/raymelon/android-studio/Install-Linux-tar.txt",
+		"/home/raymelon/.viminfo",
+		"/home/raymelon/.swp",
+		"/home/raymelon/.profile",
+		"/home/raymelon/.python_history",
+		"/home/raymelon/.selected_editor",
+		"/home/raymelon/.recently-used",
+		"/home/raymelon/.fonts.conf",
+		"/home/raymelon/.bash_logout",
+		"/home/raymelon/sconsify",
+		"/home/raymelon/.bash_history",
+		"/home/raymelon/.config/fish/conf.d/omf.fish",
+		"/home/raymelon/.config/fish/fishd.R580-TUX",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/fish_activate_env",
+		"/home/raymelon/.config/fish/config.fish",
+		"/home/raymelon/.config/config.fish",
+		"/home/raymelon/.gitconfig",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/.gitignore",
+		"/home/raymelon/Documents/Orangefix/taallam/.gitignore",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/tests/eliana_test.py",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/playground_scripts/manual_annotator.css",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/playground_scripts/manual_annotator.js",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/playground_scripts/manual_annotator.html",
+		"/home/raymelon/Documents/Orangefix/taallam/app/build/outputs/apk/debug/output.json",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/playground_scripts/info.txt",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/tests/annotator_unit_test.py",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/tests/check_if_on_env.py",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/env/eliana/lib/python3.6/site-packages/object_detection/test_images/image_info.txt",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/eliana/lib/annotator.py",
+		"/home/raymelon/Documents/bdo",
+		"/home/raymelon/Documents/Orangefix/taallam/.gitignore (not anymore)",
+		"/home/raymelon/Documents/PUP Files/8th Sem/Eliana/docs/source/index.rst",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/pdf",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/livetimr",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/trashh",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/off",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/explr",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/zhaa_icon_selector.xml",
+		"/home/raymelon/Documents/PUP Files/7th Sem/Fundamentals of Research - COMP 4163/rclone-script.sh",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/zaay_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/yaa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/wahid_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/waaw_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/tisah_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/thamaniya_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/thalatha_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/thaal_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/thaa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/taa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/taa2_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/sittah_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/siin_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/sifr_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/shiin_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/sabah_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/saad_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/raa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/qaaf_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/nuun_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/miim_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/letters_board_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/laam_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/khamsash_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/kha_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/kaaf_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/jiim_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/ithnan_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/ha_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/haa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/ghayn_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/faa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/daal_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/daad_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_start_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_setting_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_letters_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_numbers_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/baa_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/ayn_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/asharah_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/arbaah_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/alif_icon_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_arrow_left_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_arrow_right_selector.xml",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/btn_help_selector.xml",
+		"/home/raymelon/Downloads/.~lock.parts of the heart_.pptx#",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/md",
+		"/home/raymelon/Documents/PUP Files/7th Sem/Digital Signal Processing - CS-ELEC3/steganography python/code.py",
+		"/home/raymelon/Documents/PUP Files/7th Sem/Digital Signal Processing - CS-ELEC3/steganography python/screencaps/Samples/README.txt",
+		"/home/raymelon/Documents/side-projects/TrafficLightNeuralNetwork -TensorFlow/README.md",
+		"/home/raymelon/Documents/side-projects/keyboard-toggler/make",
+		"/home/raymelon/Documents/side-projects/keyboard-toggler/src/keyboard_toggle.vala",
+		"/home/raymelon/Documents/side-projects/keyboard-toggler/refs",
+		"/home/raymelon/Documents/side-projects/keyboard-toggler/src/tray-icon.vala",
+		"/home/raymelon/Documents/PUP Files/7th Sem/Fundamentals of Research - COMP 4163/notes/reaction | emotion",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/auto-scrlck",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/startup-scrlck",
+		"/home/raymelon/Documents/name_art.sh",
+		"/home/raymelon/Documents/side-projects/TrafficLightNeuralNetwork_Tensor/main.py",
+		"/home/raymelon/Documents/side-projects/TrafficLightNeuralNetwork_Tensor/untitled.py",
+		"/home/raymelon/Documents/name_art",
+		"/home/raymelon/kickthemout/requirements.txt",
+		"/home/raymelon/kickthemout/scan.py",
+		"/home/raymelon/kickthemout/kickthemout.py",
+		"/home/raymelon/Documents/matlab/bin/glnxa64/install_unix",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Fraymelon%252FDownloads%252FMathworks_Matlab_R2015a_Linux%252FR2015a-glnxa64.iso/install",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/startup-srclck",
+		"/home/raymelon/Documents/side-projects/bash-wrappers/enable-scrlck",
+		"/home/raymelon/Downloads/test.html",
+		"/home/raymelon/Downloads/letters_points.json",
+		"/usr/share/themes/OSX-Arc-Plus/gtk-3.22/gtk.css",
+		"/usr/share/themes/OSX-Arc-Plus/gtk-3.22/gtk-dark.css",
+		"/usr/share/themes/OSX-Arc-Plus/gtk-3.0/gtk-dark.css",
+		"/home/raymelon/Documents/side-projects/keyboard-toggle/keyboard_toggle.vala",
+		"/home/raymelon/Documents/Orangefix/taallam/app/src/main/res/drawable/thumb_surah_al_fatiha_selector.xml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file_history",
+			"0.0",
+			"0.000",
+			"0.",
+			"activation",
+			"logits",
+			"outputs",
+			"0.00000",
+			"0.00",
+			"0.",
+			"regenOn",
+			"scanNetwork",
+			"getDefault",
+			"scanNetwork",
+			"Network Scannin",
+			"MarlinViewWindow .source-list.sidebar.view",
+			"MarlinViewWindow .source-list.sidebar.view row",
+			".source-list.sidebar.view",
+			"_box",
+			"hrs_to_six",
+			"\"xset -led named 'Scroll Lock'\"",
+			"\"xset led named 'Scroll Lock'\"",
+			"\"",
+			"-icontheme",
+			"Arrow",
+			"back",
+			".panel",
+			"minimize",
+			".panel",
+			".composited-indicator",
+			"Panel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"0.00",
+			"0.0",
+			"",
+			"0.000",
+			"output_activation",
+			"activation",
+			"0.",
+			"0.00000",
+			"0.00",
+			"_box_hor",
+			"min_to_six",
+			"xset -led named 'Scroll Lock'",
+			"xset led named 'Scroll Lock'",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pictomood-app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/PUP Files/8th Sem/Eliana/eliana.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

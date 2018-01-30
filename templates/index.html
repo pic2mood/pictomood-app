@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+    <title>pictomood</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- styles -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+  </head>
+  <body>
+    <p id="banner">PICTOMOOD</p>
+    <form action="/upload" method="post" enctype="multipart/form-data" >
+        <input type="file" name="image" multiple>
+        <p>DRAG OR CLICK TO UPLOAD.</p>
+        <button type="submit">EMOTE</button>
+    </form>
+
+    <div class="output">
+        <img src="{{ output_img }}" >
+    </div>
+
+    <footer>
+      <p>WITH ❤ BY JEPEH AND REMEL. © 2018.</p>
+      <p><a href="https://github.com/pic2mood/">github.com/pic2mood</a></p>
+    </footer>
+
+    <!-- scripts -->
+  </body>
+</html>
