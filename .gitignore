@@ -1,5 +1,5 @@
-pictomood.sublime-project
-pictomood.sublime-workspace
+pictomood-app.sublime-project
+pictomood-app.sublime-workspace
 *.pyc
 */__pycache__
 static/uploads/
