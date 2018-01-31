@@ -4,6 +4,7 @@ from flask import (
 )
 from pictomood.imports import *
 from pictomood import config
+from pictomood import pictomood
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = os.path.join(
@@ -26,7 +27,20 @@ def upload_file():
 
     get_path = 'http://127.0.0.1:5000/uploads/' + file.filename
 
-    return render_template('index.html', output_img=get_path)
+    emotion = pictomood.main({
+        'single_path': post_path,
+        'score': True,
+        'model': 'oea',
+        'parallel': False,
+        'batch': False,
+        'montage': False
+    })
+
+    return render_template(
+        'index.html',
+        output_img=get_path,
+        emotion_tag=emotion
+    )
 
 
 @app.route('/uploads/<filename>')
