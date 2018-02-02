@@ -16,7 +16,10 @@ app.config['UPLOAD_FOLDER'] = os.path.join(
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template(
+        'index.html',
+        upload_text='DRAG OR CLICK TO UPLOAD.'
+    )
 
 
 @app.route('/upload', methods=['POST'])
@@ -39,7 +42,8 @@ def upload_file():
     return render_template(
         'index.html',
         output_img=get_path,
-        emotion_tag=emotion
+        emotion_tag=emotion,
+        upload_text='DONE.'
     )
 
 

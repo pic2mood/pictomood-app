@@ -8,22 +8,36 @@
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
   </head>
   <body>
-    <p id="banner">PICTOMOOD</p>
-    <form action="/upload" method="post" enctype="multipart/form-data" >
-        <input type="file" name="image" multiple>
-        <p>DRAG OR CLICK TO UPLOAD.</p>
-        <button type="submit">EMOTE</button>
-    </form>
-
-    <div class="output">
-        <img src="{{ output_img }}" >
-        <p>{{ emotion_tag }}</p>
+    <div>
     </div>
 
-    <footer>
-      <p>WITH ❤ BY JEPEH AND REMEL. © 2018.</p>
-      <p><a href="https://github.com/pic2mood/">github.com/pic2mood</a></p>
-    </footer>
+    <div class="chatbox">
+      <div class="banner">
+        <p>PICTOMOOD</p>
+      </div>
+
+      <div class="form">
+        <form action="/upload" method="post" enctype="multipart/form-data" >
+            <input type="file" name="image" multiple>
+            <p>{{ upload_text }}</p>
+            <button type="submit"/>EMOTE</button>
+        </form>
+      </div>
+
+      <div class="output">
+        <img src="{{ output_img }}" alt="">
+        <p>{{ emotion_tag }}</p>
+      </div>
+
+      <div class="footer">
+        <p>WITH ❤ BY JEPEH AND REMEL. © 2018.</p>
+        <p><a href="https://github.com/pic2mood/">github.com/pic2mood</a></p>
+      </div>
+
+    </div>
+
+    <div>
+    </div>
 
     <!-- scripts -->
   </body>
