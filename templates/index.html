@@ -18,9 +18,9 @@
 
       <div class="form">
         <form action="/upload" method="post" enctype="multipart/form-data" >
-            <input type="file" name="image" multiple>
+            <input type="file" name="file[]" multiple>
             <p>{{ upload_text }}</p>
-            <button type="submit"/>EMOTE</button>
+            <button type="submit" value="add"/>EMOTE</button>
         </form>
       </div>
 

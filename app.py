@@ -24,20 +24,28 @@ def index():
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
-    file = request.files['image']
-    post_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
-    file.save(post_path)
+    # file = request.files['image']
+    files = request.files.getlist('file[]')
 
-    get_path = 'http://127.0.0.1:5000/uploads/' + file.filename
+    print(files)
 
-    emotion = pictomood.main({
-        'single_path': post_path,
-        'score': True,
-        'model': 'oea',
-        'parallel': False,
-        'batch': False,
-        'montage': False
-    })
+    get_path = ''
+    emotion = 'huehue'
+
+    for file in files:
+        post_path = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        file.save(post_path)
+
+        get_path = 'http://127.0.0.1:5000/uploads/' + file.filename
+
+        emotion = pictomood.main({
+            'single_path': post_path,
+            'score': True,
+            'model': 'oea',
+            'parallel': False,
+            'batch': False,
+            'montage': False
+        })
 
     return render_template(
         'index.html',
