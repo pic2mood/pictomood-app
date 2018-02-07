@@ -3,3 +3,4 @@ pictomood-app.sublime-workspace
 *.pyc
 */__pycache__
 static/uploads/
+requirements/
